@@ -1,0 +1,29 @@
+{
+  "name": "expo-app-project-list",
+  "version": "1.0.0",
+  "description": " Get a list of the expo apps made by a user. For jQuery or Node.JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEBv15/Expo-App-Project-List.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "expo",
+    "expo app",
+    "datamining"
+  ],
+  "author": "Sebastian Strempfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SEBv15/Expo-App-Project-List/issues"
+  },
+  "homepage": "https://github.com/SEBv15/Expo-App-Project-List#readme",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
